@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\bin\Debug\atyarisioyunu.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\bin\Debug\atyarisioyunu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\bin\Debug\atyarisioyunu.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.Form1.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\atyarisioyunu\atyarisioyunu\obj\Debug\atyarisioyunu.pdb
